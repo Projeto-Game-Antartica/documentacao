@@ -28,9 +28,9 @@ copyright = u'2018, UFABC - Universidade Federal do ABC'
 author = u'Ghuilherme, Marcos e Rhaleff.'
 
 # The short X.Y version
-version = ''
+version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
@@ -114,7 +114,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'game_antartica_docdoc'
+htmlhelp_basename = 'game_antartica_doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -122,11 +122,11 @@ htmlhelp_basename = 'game_antartica_docdoc'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
-    # 'papersize': 'letterpaper',
+    'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    # 'pointsize': '10pt',
+    'pointsize': '12pt',
 
     # Additional stuff for the LaTeX preamble.
     #
