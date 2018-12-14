@@ -23,9 +23,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Game Antartica'
-copyright = '2018, UFABC - Universidade Federal do ABC'
-author = 'Ghuilherme, Marcos e Rhaleff.'
+project = u'Game Antartica'
+copyright = u'2018, UFABC - Universidade Federal do ABC'
+author = u'Ghuilherme, Marcos e Rhaleff.'
 
 # The short X.Y version
 version = ''
