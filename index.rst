@@ -5,7 +5,7 @@
    :numbered:
    :caption: Conteúdo Atividades 2.4:
    
-   doc2.4/index
+   doc2.4/status
    doc2.4/tecnologias_usadas
    doc2.4/arquiteturas_relacionadas
    doc2.4/modelagem_inicial_bd
