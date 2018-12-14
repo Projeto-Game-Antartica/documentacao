@@ -1,4 +1,4 @@
-..include doc2.4/status.rst
+..include:: doc2.4/status.rst
 
 Documentação:
 
