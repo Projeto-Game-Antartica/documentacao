@@ -12,7 +12,42 @@ Com base no `estudo e comparação das games engines <https://docs.google.com/sp
 Learning Analytics
 ==================
 
-Ainda não foi definida a tecnologia usada. :doc:`Testes <testes_iniciais>` foram realizados com GBLxAPI e RAGE, ambos utilizam o padrão xAPI como especificação dos dados gerados.
+Ainda não foi definida a tecnologia a ser usada. :doc:`Testes <testes_iniciais>` foram realizados com GBLxAPI e RAGE, 
+ambos utilizam o padrão xAPI como especificação dos dados gerados.
+
+xAPI
+^^^^
+
+Experience API (ou xAPI) é uma nova especificação para tecnologia de aprendizado que possibilita 
+a coleta de dados de experiências que uma pessoa tem (online e offline).
+
+**Como funciona a xAPI?**
+
+É possível aprender a partir de qualquer forma experiência, então registrar essas experiências é algo importante.
+Os registros seguem a estrutura “Sujeito, verbo, objeto” (:numref:`figxAPI`) são armazenados em um Learning Record Store (LRS).
+O uso “Sujeito, verbo, objeto” permite Liberdade de declaração,  é quase um diário do usuário. Registros são 
+ativados por eventos, clique de botão, colher itens, sair da aplicação, etc.
+
+.. _figxAPI:
+.. figure:: assets/xAPI.png
+   :align: center
+   
+   : Dados do xAPI utilizando a estrurua “Sujeito, verbo, objeto”.
+
+Os LRS registram todas as declarações feitas. Um LRS pode compartilhar essas instruções com outros LRSs. Um LRS pode 
+existir sozinho, :numref:`figLRSisolado`, ou dentro de um LMS (Learning Management System), :numref:`figLRSLMS`.
+
+.. _figLRSisolado:
+.. figure:: https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2018/07/ecosystem-standalone-500x375.png
+   :align: center
+
+   : LRS isolado.
+
+.. _figLRSLMS:
+.. figure:: https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2018/07/ecosystem-inlms-500x375.png
+   :align: center
+
+   : LRS dentro de um LMS.
 
 Acessibilidade
 ==============

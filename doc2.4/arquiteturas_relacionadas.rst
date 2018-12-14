@@ -51,5 +51,5 @@ O histórico de desenvolvimento da arquitetura pode ser encontrada na seguinte `
 .. figure:: ./assets/arquitetura.png 
     :align: center
 
-    Arquitetura do desenvolvimento
+    : Arquitetura do desenvolvimento
 
