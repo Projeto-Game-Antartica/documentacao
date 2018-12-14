@@ -200,8 +200,5 @@ todo_include_todos = True
 
 # Numera as figuras automaticamente
 numfig = True
-numfig_format = {'figure': 'Figura %s'}
-numfig_format['table'] = 'Table %s'
-numfig_format['code-block'] = 'Listing %s'
-numfig_format['section'] = 'Section'
+numfig_format = {'figure': 'Figura %s', 'table' : 'Table %s', 'code-block' : 'Listing %s', 'section' : 'Section'}
 numfig_secnum_depth = 0
