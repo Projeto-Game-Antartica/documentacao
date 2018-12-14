@@ -6,3 +6,7 @@ Definição das tecnologias usadas para o desenvolvimento do game e Elaboração
 **Data fim prevista:** 21/18/18
 
 **status:** em andamento
+
+Documentação:
+
+<doc-game-antartica.rtfd.io>
