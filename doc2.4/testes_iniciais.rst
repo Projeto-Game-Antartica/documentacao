@@ -28,4 +28,4 @@ Leitura de tela
 Glossário
 ==========
 
-O conteúdo do glossário para realização do teste pode ser encontrado `aqui. <https://docs.google.com/spreadsheets/d/1mvGuemPk3e-Gm60rgdjMvQxMZGOjmYUOElkMYs2TA3c/edit#gid=0>`_
+O conteúdo do glossário para realização do teste pode ser encontrado `aqui. <https://docs.google.com/spreadsheets/d/1mvGuemPk3e-Gm60rgdjMvQxMZGOjmYUOElkMYs2TA3c/>`_
