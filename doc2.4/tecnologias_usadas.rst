@@ -7,7 +7,7 @@ Tópico relacionado à tomada de decisões das tecnologias, ferramentas, bibliot
 Game Engine
 ===========
 
-Com base no `estudo e comparação das games engines <https://docs.google.com/spreadsheets/d/1HZr2qw1VU1hxQHMUvvzoJUTteoh7uYQtHIbmS9KSBJc/edit#gid=0>`_, a escolhida foi a engine Unity para o desenvolvimento do jogo.
+Com base no `estudo e comparação das games engines <https://docs.google.com/spreadsheets/d/1HZr2qw1VU1hxQHMUvvzoJUTteoh7uYQtHIbmS9KSBJc/>`_, a escolhida foi a engine Unity para o desenvolvimento do jogo.
 
 Learning Analytics
 ==================
