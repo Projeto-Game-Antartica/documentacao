@@ -151,7 +151,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'game_antartica_doc', 'game_antartica_doc Documentation',
+    (master_doc, project, project+' Documentação',
      [author], 1)
 ]
 
@@ -162,7 +162,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'game_antartica_doc', 'game_antartica_doc Documentation',
+    (master_doc, 'game_antartica_doc', project+' Documentação',
      author, 'game_antartica_doc', 'One line description of project.',
      'Miscellaneous'),
 ]
