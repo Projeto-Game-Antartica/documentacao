@@ -5,7 +5,7 @@ Arquiteturas relacionadas
 Requisitos de Acessibilidade
 ============================
 
-Os requisitos de acessibilidade foram levantados através de reuniões gerais das equipes, conversas com PCDs envolvidos no projeto e revisão bibliográfica. Maiores detalhes podem ser encontrados aqui.
+Os requisitos de acessibilidade foram levantados através de reuniões gerais das equipes, conversas com PCDs envolvidos no projeto e revisão bibliográfica. Maiores detalhes podem ser encontrados `aqui <https://drive.google.com/drive/folders/1Acww95oAHJYeV6SlDAcCKvgEPXdn_D1m>`_.
 
 Audiodescrição
 ^^^^^^^^^^^^^^
@@ -22,7 +22,7 @@ O som binaural (3D) é um requisito para ajudar na localização dos deficientes
 Libras
 ^^^^^^
 
-Para libras, em um primeiro momento foi discutido a utilização de avatares para realizar a tradução. Entretanto, devido à implementação dos avatares (vlibras, por exemplo) não estar completamente terminada e aprimorada, optou-se pela utilização de vídeos gravados por intérpretes de libras para a tradução.
+Para libras, em um primeiro momento foi discutido a utilização de avatares para realizar a tradução. Entretanto, devido à implementação dos avatares (`vlibras <http://www.vlibras.gov.br/>`_, por exemplo) não estar completamente terminada e aprimorada, optou-se pela utilização de vídeos gravados por intérpretes de libras para a tradução.
 
 Esses vídeos serão executados via unity através de seu player nativo. Uma questão que ainda está em discussão é sobre como o vídeo será executado, seja via streaming ou não (o vídeo estaria dentro da pasta do jogo).
 
@@ -45,4 +45,13 @@ Necessário ter três glossários:
 Arquitetura do desenvolvimento do jogo
 =======================================
 
-O histórico de desenvolvimento da arquitetura pode ser encontrada na seguinte apresentação. A atual versão pode ser vista na figura X.
+O histórico de desenvolvimento da arquitetura pode ser encontrada na seguinte `apresentação <https://docs.google.com/presentation/d/1VsvHcXpbeVZJpwS-NAaXeZEkLGBHVKt7u_825CdEKsc/>`_. A atual versão pode ser vista na :ref:`figarquitetura`.
+
+.. _figarquitetura:
+.. figure:: ./assets/arquitetura.png 
+    :align: center
+
+    Figura 1
+
+    Arquitetura do desenvolvimento
+

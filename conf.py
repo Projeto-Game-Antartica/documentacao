@@ -25,7 +25,7 @@ sys.path.append(os.path.abspath('.'))
 
 project = u'Game Antartica'
 copyright = u'2018, UFABC - Universidade Federal do ABC'
-author = u'Ghuilherme, Marcos e Rhaleff.'
+author = u'UFABC - Universidade Federal do ABC'
 
 # The short X.Y version
 version = '0.1'
@@ -118,7 +118,7 @@ htmlhelp_basename = 'game_antartica_doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
+latex_engine = 'pdflatex'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -141,7 +141,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'game_antartica_doc.tex', 'game\\_antartica\\_doc Documentation',
+    (master_doc, 'game_antartica_doc.tex', project+' Documentação',
      author, 'manual'),
 ]
 
