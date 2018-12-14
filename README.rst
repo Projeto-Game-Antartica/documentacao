@@ -9,4 +9,4 @@ Definição das tecnologias usadas para o desenvolvimento do game e Elaboração
 
 Documentação:
 
-<https://doc-game-antartica.rtfd.io>
+https://doc-game-antartica.rtfd.io
