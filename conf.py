@@ -142,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'game_antartica_doc.tex', 'game\\_antartica\\_doc Documentation',
-     'vários', 'manual'),
+     author, 'manual'),
 ]
 
 
