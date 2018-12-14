@@ -197,3 +197,8 @@ intersphinx_mapping = {'https://docs.python.org/': None}
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+# Numera as figuras automaticamente
+numfig = True
+numfig_format={'figure': 'Figura %s'}
+numfig_secnum_depth = 0

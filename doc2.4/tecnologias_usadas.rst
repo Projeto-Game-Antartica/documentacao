@@ -12,7 +12,7 @@ Com base no `estudo e comparação das games engines <https://docs.google.com/sp
 Learning Analytics
 ==================
 
-TODO.
+Ainda não foi definida a tecnologia usada. :doc:`Testes <testes_iniciais>` foram realizados com GBLxAPI e RAGE, ambos utilizam o padrão xAPI como especificação dos dados gerados.
 
 Acessibilidade
 ==============
