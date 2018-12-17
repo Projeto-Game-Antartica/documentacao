@@ -7,7 +7,7 @@ Tópico relacionado à tomada de decisões das tecnologias, ferramentas, bibliot
 Game Engine
 ===========
 
-Com base no `estudo e comparação das games engines <https://docs.google.com/spreadsheets/d/1HZr2qw1VU1hxQHMUvvzoJUTteoh7uYQtHIbmS9KSBJc/>`_, a escolhida foi a engine Unity para o desenvolvimento do jogo.
+Para a escolha da engine a ser usada no desenvolvimento do jogo, foi realizada uma análise comparativa entre 15 engines baseada nos critérios e pontuações do framework de Ali e Usma (2016). As engines foram rankeadas e as cinco mais pontuadas foram: Cocos2D, Godot Egine, Unreal Engine 4 e Unity 3D. Estas cinco engines selecionadas foram testadas observando os atributos específicos selecionados de acordo com as necessidades do Projeto Antártica, são eles: (i) requisitos de acessibilidade (sons 3D, player de vídeo/youtube, gáfico 2D/3D); (ii) learning analytics; (iii) reuso de minijogos e interação com a plataforma REMAR; (iv) suporte da empresa e comunidade (tutoriais, fóruns, documentação). Após os testes, a Unity3D foi escolhida para o desenvolvimento do jogo, principalmente, por ter uma documentação atualizada e um grande suporte à comuniadade, além de que atendeu à maioria dos atributos específicos comparados. A análise comparativa das 15 engines, tal como os testes das 5 selecionadas estão disponíveis `aqui <https://docs.google.com/spreadsheets/d/1HZr2qw1VU1hxQHMUvvzoJUTteoh7uYQtHIbmS9KSBJc/>`_.
 
 Learning Analytics
 ==================
