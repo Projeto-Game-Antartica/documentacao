@@ -17,6 +17,11 @@
    :caption: Conteúdo Atividades 3.2:
    
    doc3.2/status
-   
+   doc3.2/amb_desenvolvimento
+   doc3.2/versionamento
+   doc3.2/estudo_remar
+   doc3.2/espec_testes
+   doc3.2/controle_testes
+   doc3.2/testes_integrados
    
    
