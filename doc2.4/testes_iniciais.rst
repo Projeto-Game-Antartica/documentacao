@@ -85,7 +85,7 @@ O teste foi realizado com um deficiente visual participante do projeto que nos d
 
 Além disso, foi testado também a tradução do jogo, ou seja, o jogo foi apresentado em dois idiomas com opção de escolha na primeira tela.
 
-As telas podem ser vistas na :numref:`_figTraducao` e :numref:`_figQuiz`.
+As telas podem ser vistas na :numref:`figTraducao` e :numref:`figQuiz`.
 
 .. _figTraducao:
 .. figure:: assets/traducao.png
