@@ -69,7 +69,7 @@ O teste de som foi realizado com dois deficientes visuais participantes do proje
 O feedback dos testes foi positivo, porém com sugestões de melhorias e, dentre elas, pode-se destacar: transição mais suave dos sons (para ajudar na localização/distância dos animais, no caso), sons estáveis para objetos (por exemplo, caso haja uma parede ao norte do usuário, emitir um som estático característico representando essa situação).
 
 .. _figIsometricScene:
-.. figure:: cenario_isometrico_2d.png
+.. figure:: assets/cenario_isometrico_2d.png
    :align: center
    
    : Cenário 2D isométrico utilizado para teste.
@@ -88,13 +88,13 @@ Além disso, foi testado também a tradução do jogo, ou seja, o jogo foi apres
 As telas podem ser vistas na :numref:`_figTraducao` e :numref:`_figQuiz`.
 
 .. _figTraducao:
-.. figure:: traducao.png
+.. figure:: assets/traducao.png
    :align: center
    
    : Tela inicial com seleção de idioma.
 
 .. _figQuiz:
-.. figure:: quiz.png
+.. figure:: assets/quiz.png
    :align: center
    
    : Quiz.
