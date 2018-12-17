@@ -8,7 +8,9 @@ Identificação dos Usuários de Teste
 ====================================
 
 Atualmente, os usuários que compõem o grupo de testes são:
+
 	**- Aluno 1**: Graduando em Ciência da Computação pela Universidade Federal do ABC. Deficiente visual. Consultor do projeto para parte de acessibilidade.
+
 	**- Funcionário 1**: Funcionário da Universidade Federal do ABC. Deficiente visual.
 
 REMAR

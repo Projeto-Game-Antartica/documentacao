@@ -49,7 +49,7 @@ Necessário ter três glossários:
 Arquitetura do desenvolvimento do jogo
 =======================================
 
-O histórico de desenvolvimento da arquitetura pode ser encontrada na seguinte `apresentação <https://docs.google.com/presentation/d/1VsvHcXpbeVZJpwS-NAaXeZEkLGBHVKt7u_825CdEKsc/>`_. A atual versão pode ser vista na :numref:`figarquitetura`.
+O histórico de desenvolvimento da arquitetura pode ser encontrada na seguinte `apresentação <https://docs.google.com/presentation/d/1VsvHcXpbeVZJpwS-NAaXeZEkLGBHVKt7u_825CdEKsc/edit?usp=sharing>`_. A atual versão pode ser vista na :numref:`figarquitetura`.
 
 .. _figarquitetura:
 .. figure:: ./assets/arquitetura.png 
