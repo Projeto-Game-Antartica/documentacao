@@ -101,4 +101,6 @@ As telas podem ser vistas na :numref:`figTraducao` e :numref:`figQuiz`.
 Glossário
 ==========
 
+O teste de glossário é uma opção adicionada ao projeto anterior (leitura de tela) na tela de menu, que constará os três glossários necessários. Essa etapa ainda está em desenvolvimento.
+
 O conteúdo do glossário para realização do teste pode ser encontrado `aqui <https://docs.google.com/spreadsheets/d/1mvGuemPk3e-Gm60rgdjMvQxMZGOjmYUOElkMYs2TA3c/>`_ .
