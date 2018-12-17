@@ -10,3 +10,11 @@
    doc2.4/arquiteturas_relacionadas
    doc2.4/modelagem_inicial_bd
    doc2.4/testes_iniciais
+   
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: Conteúdo Atividades 3.2:
+   
+   
+   
