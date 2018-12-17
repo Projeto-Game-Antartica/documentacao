@@ -16,5 +16,7 @@
    :numbered:
    :caption: Conteúdo Atividades 3.2:
    
+   doc3.2/status
+   
    
    
