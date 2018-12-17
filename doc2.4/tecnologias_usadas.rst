@@ -59,4 +59,4 @@ Para a questão da audiodescrição, foi escolhida a biblioteca `Tolk <https://g
 Customização
 ============
 
-Customização através da plataforma REMAR.
+A customização do jogo será feita através da plataforma REMAR. O `REMAR (Recursos Educacionais Multiplataformas Abertos na Rede) <http://remar.dc.ufscar.br/index/apresentacao>`_ é uma plataforma de apoio à publicação e customização de jogos educacionais abertos. Oferece um conjunto de ferramentas que possibilitam: (i) a publicação de modelos de jogos customizáveis com a licença aberta Creative Commons; (ii) a customização de jogos por professores ou alunos, a partir dos modelos de jogos educacionais publicados; (iii) a integração com repositórios digitais para a publicação e busca de itens de customização; (iv) a geração de versões dos jogos customizados para diferentes plataformas (web, desktop, móvel); (v) acompanhamento do progresso dos alunos durante o uso dos jogos educacionais. 
