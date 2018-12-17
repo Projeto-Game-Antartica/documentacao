@@ -5,12 +5,12 @@ Arquiteturas relacionadas
 Requisitos de Acessibilidade
 ============================
 
-Os requisitos de acessibilidade foram levantados através de reuniões gerais das equipes, conversas com PCDs envolvidos no projeto e revisão bibliográfica. Maiores detalhes podem ser encontrados `aqui <https://drive.google.com/drive/folders/1Acww95oAHJYeV6SlDAcCKvgEPXdn_D1m>`_.
+Os requisitos de acessibilidade foram levantados através de reuniões gerais das equipes, conversas com pessoas com deficiências (PCDs) envolvidas no projeto e revisão bibliográfica. Maiores detalhes podem ser encontrados `aqui <https://docs.google.com/document/d/1skEVpEKSFmfT8GxSOsrlR17pMRvjYdKt5VHvSEkFrxs/edit?usp=sharing>`_.
 
 Audiodescrição
 ^^^^^^^^^^^^^^
 
-É necessário que todo o conteúdo (cenário, minijogos, etc) tenha audiodescrição para os deficientes visuais. Dado essa necessidade, foram estudados maneiras diferentes de prover essa descrição. Uma primeira tentativa foi através de ferramentas Text-to-Speech, que faria a leitura dos conteúdos necessários. Para tal, utilizou-se a API do google que foi apresentado para testes com o Otávio que, após o teste, nos orientou a utilização dos leitores de tela, pois cada deficiente visual possui uma diferente voz do leitor, com diferentes velocidades, entre outros, e caso fosse utilizado o TTS, poderia acabar por afastá-los do jogo por problemas relacionados à voz.
+É necessário que todo o conteúdo (cenário, minijogos, etc) tenha audiodescrição para os deficientes visuais. Dado essa necessidade, foram estudados maneiras diferentes de prover essa descrição. Uma primeira tentativa foi através de ferramentas Text-to-Speech, que faria a leitura dos conteúdos necessários. Para tal, utilizou-se a API do google que foi apresentado para testes com PCD visual que, após o teste, nos orientou a utilização dos leitores de tela, pois cada deficiente visual possui uma diferente voz do leitor, com diferentes velocidades, entre outros, e caso fosse utilizado o TTS, poderia acabar por afastá-los do jogo por problemas relacionados à voz.
 
 Assim, para atender essa demanda, foi procurado por ferramentas ou bibliotecas que pudessem integrar a leitura de tela do computador com o jogo desenvolvido pelo Unity. A biblioteca Tolk resolve esse problema, permitindo utilizar o leitor instalado no computador para a leitura dos textos do jogo. Porém, só foi possível utilizar essa biblioteca, até o momento, em jogos desktop com sistemas operacionais windows (não foi testado para linux e mac).
 
@@ -28,6 +28,10 @@ Esses vídeos serão executados via unity através de seu player nativo. Uma que
 
 Navegação/Usabilidade
 ^^^^^^^^^^^^^^^^^^^^^
+
+A navegação e usabilidade do jogo tem  que ser inclusiva e acessível. Para isso, teclas de atalho serão implementadas para que o jogo possa ser jogado apenas através do teclado (sem utilizar o mouse), o jogo terá audiodescrição e atalhos para leitura dos textos que forem exibidos e também a tradução do conteúdo para libras. Ademais, serão implementados alertas visuais e sonoros para as ações e eventos do jogo.
+
+Outros requisitos podem surgir ao decorrer do desenvolvimento que serão incorporadas para se melhorar a usabilidade do jogo.
 
 Glossário
 ^^^^^^^^^
