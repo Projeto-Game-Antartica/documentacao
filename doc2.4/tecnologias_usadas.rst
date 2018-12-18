@@ -41,13 +41,13 @@ existir sozinho, :numref:`figLRSisolado`, ou dentro de um LMS (Learning Manageme
 .. figure:: https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2018/07/ecosystem-standalone-500x375.png
    :align: center
 
-   : LRS isolado.
+   : LRS isolado (Fonte: https://xapi.com/).
 
 .. _figLRSLMS:
 .. figure:: https://2j6vh43zoo92z7qif3oiqt2l-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2018/07/ecosystem-inlms-500x375.png
    :align: center
 
-   : LRS dentro de um LMS.
+   : LRS dentro de um LMS (Fonte: https://xapi.com/).
 
 Acessibilidade
 ==============

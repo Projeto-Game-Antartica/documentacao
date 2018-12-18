@@ -13,6 +13,46 @@ Atualmente, os usuários que compõem o grupo de testes são:
 
 	**- Funcionário 1**: Funcionário da Universidade Federal do ABC. Deficiente visual.
 
+Sistema de Login
+================
+
+Testes com a API de autenticação de login. 
+
+Usuário utiliza o e-mail e senha para registrar-se. Pode vincular sua conta com alguma rede social (ex.: Facebook) para utilizar a autenticação por "1-click".
+
+Projeto utilizado nos testes: https://github.com/scotch-io/easy-node-authentication
+
+A API  utiliza as tecnologias NodeJS e MongoDB. O administrador da plataforma necessita ter uma conta de desenvolvedor na rede social correspondente
+para disponibilizar os recursos de login com "1-click".
+
+Para configurar a autenticação pelo facebook, por exemplo, criamos uma conta de desenvolvedor no Facebook (:numref:`figfacedev`),
+criamos um produto **login do Facebook**, anotamos a **ID do Aplicativo** e a **chave secreta**. 
+Acessamos o arquivo **'config/auth.js'** (:numref:`codefacebookauth`) inserimos a ID do Aplicativo no campo **'clientID'** e Chave seceta em 
+**'clientSecret'**.
+
+.. _figfacedev:
+.. figure:: ./assets/facebook-dev.png
+   :align: center
+   
+   : Conta do Facebook desenvolvedor.
+
+.. _codefacebookauth:
+.. code-block:: javascript
+    :caption: Configuração para uso da autenticação pelo Facebook.
+    :emphasize-lines: 2,3
+    :name: config/auth.js
+
+    'facebookAuth' : {
+        'clientID'        : '461354610938682', // your App ID
+        'clientSecret'    : '5ad144d13582', // your App Secret
+        'callbackURL'     : 'http://localhost:8080/auth/facebook/callback',
+        'profileURL': 'https://graph.facebook.com/v2.5/me?fields=first_name,last_name,email',
+        'profileFields'   : ['id', 'email', 'name'] // For requesting permissions from Facebook API
+
+    },
+
+    
+
 REMAR
 =====
 
@@ -107,6 +147,7 @@ As telas podem ser vistas na :numref:`figTraducao` e :numref:`figQuiz`.
    :align: center
    
    : Quiz.
+   
 Glossário
 ^^^^^^^^^
 

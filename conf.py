@@ -200,5 +200,5 @@ todo_include_todos = True
 
 # Numera as figuras automaticamente
 numfig = True
-numfig_format = {'figure': 'Figura %s', 'table' : 'Table %s', 'code-block' : 'Listing %s', 'section' : 'Section'}
+numfig_format = {'figure': 'Figura %s', 'table' : 'Table %s', 'code-block' : 'Código %s', 'section' : 'Section'}
 numfig_secnum_depth = 0
