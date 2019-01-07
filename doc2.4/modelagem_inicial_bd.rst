@@ -2,4 +2,8 @@
 Modelagem inicial do banco de dados
 ===================================
 
-TODO.
+.. _figBD:
+.. figure:: ./assets/modeloBD.png
+    :align: center
+
+    : Modelagem Inicial de Banco de Dados
