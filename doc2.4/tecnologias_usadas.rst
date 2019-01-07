@@ -52,7 +52,7 @@ existir sozinho, :numref:`figLRSisolado`, ou dentro de um LMS (Learning Manageme
 Acessibilidade
 ==============
 
-Os requisitos de acessibilidade serão descritos com mais detalhes na `seção 3.1 <https://doc-game-antartica.readthedocs.io/pt_BR/master/doc2.4/arquiteturas_relacionadas.html#requisitos-de-acessibilidade>`_. As ferramentas que visam atender esses requisitos são: as ferramentas nativas do unity para execução de vídeo (libras, por exemplo) e para o som binaural (som ambiente, passos, por exemplo). A codificação de teclas de acesso para aprimorar a navegação e usabilidade também será feita através do unity. É possível que seja necessário utilizar algum asset da unity para eventuais melhorias do desenvolvimento.
+Os requisitos de acessibilidade estão descritos com mais detalhes na `seção 3.1 <https://doc-game-antartica.readthedocs.io/pt_BR/master/doc2.4/arquiteturas_relacionadas.html#requisitos-de-acessibilidade>`_. As ferramentas que visam atender esses requisitos são: as ferramentas nativas do unity para execução de vídeo (libras, por exemplo) e para o som binaural (som ambiente, passos, por exemplo). A codificação de teclas de acesso para aprimorar a navegação e usabilidade também será feita através do unity. É possível que seja necessário utilizar algum asset da unity para eventuais melhorias do desenvolvimento.
 
 Para a questão da audiodescrição, foi escolhida a biblioteca `Tolk <https://github.com/dkager/tolk>`_ que permite a detecção dos leitores de tela instalados no computador do usuário e, através dele, faz a leitura dos textos do jogo (que necessitam ser lidos pelo leitor, pois haverá textos que serão gravados, i.e., não necessitam do leitor de tela).
 
