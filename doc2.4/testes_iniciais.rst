@@ -56,7 +56,7 @@ Acessamos o arquivo **'config/auth.js'** (:numref:`codefacebookauth`) inserimos 
 REMAR
 =====
 
-Disponível `aqui <https://github.com/Projeto-Game-Antartica/testes-ferramentas/tree/master/Antartica_Remar>`_. 
+Disponível `nesse link <https://github.com/Projeto-Game-Antartica/testes-ferramentas/tree/master/Antartica_Remar>`_. 
 
 Learning Analytics
 ==================
