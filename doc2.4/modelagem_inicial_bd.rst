@@ -6,7 +6,7 @@ A figura abaixo mostra o diagrama entidade relacionamento na notação Oracle, c
 
 
 .. _figBD:
-.. figure:: ./assets/modeloBD.png
+.. figure:: ./assets/modelagemBD.png
     :align: center
 
     : Modelagem Inicial de Banco de Dados
