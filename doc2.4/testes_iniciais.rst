@@ -118,7 +118,7 @@ O teste de som foi realizado com o Aluno 1 e o Funcionário 1, onde foram aprese
 O feedback dos testes foi positivo, porém com sugestões de melhorias e, dentre elas, pode-se destacar: transição mais suave dos sons (para ajudar na localização/distância dos animais, no caso), sons estáveis para objetos (por exemplo, caso haja uma parede ao norte do usuário, emitir um som estático característico representando essa situação).
 
 .. _figIsometricScene:
-.. figure:: assets/cenario_isometrico_2d.png
+.. figure:: ./assets/cenario_isometrico_2d.png
    :align: center
    
    : Cenário 2D isométrico utilizado para teste.
@@ -137,13 +137,13 @@ Além disso, foi testado também a tradução do jogo, ou seja, o jogo foi apres
 As telas podem ser vistas na :numref:`figTraducao` e :numref:`figQuiz`.
 
 .. _figTraducao:
-.. figure:: assets/traducao.png
+.. figure:: ./assets/traducao2.png
    :align: center
    
    : Tela inicial com seleção de idioma.
 
 .. _figQuiz:
-.. figure:: assets/quiz.png
+.. figure:: ./assets/quiz.png
    :align: center
    
    : Quiz.
@@ -151,6 +151,49 @@ As telas podem ser vistas na :numref:`figTraducao` e :numref:`figQuiz`.
 Glossário
 ^^^^^^^^^
 
-O teste de glossário é uma opção adicionada ao projeto anterior (leitura de tela) na tela de menu, que constará os três glossários necessários. Essa etapa ainda está em desenvolvimento.
+O teste de glossário é uma opção adicionada ao projeto anterior, que constará os três glossários necessários. São eles, um glossário em português-BR e LIBRAS, um em inglês e outro para identificação dos sons do jogo. Trata-se, inicialmente, de um teste de funcionalidades. A interface deve ser alterada no futuro.
+
 
 O conteúdo do glossário para realização do teste pode ser encontrado `aqui <https://docs.google.com/spreadsheets/d/1mvGuemPk3e-Gm60rgdjMvQxMZGOjmYUOElkMYs2TA3c/edit?usp=sharing>`_.
+
+**Glossário PT-BR/LIBRAS e Inglês**
+
+O glossário para esses idiomas são essencialmente os mesmos, mudando apenas a escrita. Ambos possuem botões representando as letras do alfabeto para filtragem do conteúdo e uma lista de botões conténdo as palavras armazenadas (conforme :numref:`figGlossario1`, em ptbr/libras e :numref:`figGlossario2`, em inglês).
+
+.. _figGlossario1:
+.. figure:: ./assets/glossario_ptbr1.png
+   :align: center
+   
+   : Glossário em PT-BR/LIBRAS.
+
+.. _figGlossario2:
+.. figure:: ./assets/glossario_en1.png
+   :align: center
+   
+   : Glossário em PT-BR/LIBRAS.
+
+Os botões levam à uma tela com descrição da palavra: uma descrição textual, uma imagem e um vídeo em libras (apenas para o glossário ptbr/libras) como visto na :numref:`figGlossario3`.
+
+.. _figGlossario3:
+.. figure:: ./assets/glossario_ptbr2.png
+   :align: center
+   
+   : Glossário em PT-BR/LIBRAS.
+
+Há a leitura de tela dos botões e textos. É possível navegar por todo o glossário através do teclado (setas direcionais e TAB), porém ainda em aperfeiçoamento.
+
+**Glossário de Sons**
+
+O glossário de sons possui a mesma interface dos anteriores, porém apenas com a lista de botões, onde quando clicado, o som característico referente àquela palavra é emitido. Há disponível para tanto para o português-br quanto para o inglês. Exemplos podem ser vistos na :numref:`figGlossario4` e :numref:`figGlossario5`.
+
+.. _figGlossario4:
+.. figure:: ./assets/glossariosom_ptbr.png
+   :align: center
+   
+   : Glossário de sons em PT-BR.
+
+.. _figGlossario5:
+.. figure:: ./assets/glossariosom_en.png
+   :align: center
+   
+   : Glossário de sons em inglês.
