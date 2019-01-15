@@ -10,7 +10,7 @@ Definição das tecnologias usadas para o desenvolvimento do game e Elaboração
 
 **Data fim prevista:** 21/12/18
 
-**status:** em andamento
+**status:** finalizado
 
 =========================================================================================================================
 `Atividades 3.2 <https://docs.google.com/spreadsheets/d/1Cd_VJTgJGGFWVm7OqLff6S-cqBLXFzI4foe-WktnQfc/edit?usp=sharing>`_
