@@ -2,10 +2,10 @@
 Modelagem inicial do banco de dados
 ===================================
 
-A figura abaixo mostra o diagrama entidade relacionamento na notação Oracle, contendo as relações iniciais de cadastro, glossário e configurações do jogo.
+A figura abaixo mostra o diagrama entidade relacionamento contendo as relações iniciais de cadastro, glossário e configurações do jogo.
 
 .. _figDB:
-.. figure:: ./assets/modelagemBD.png 
+.. figure:: ./assets/diagramaJogo_Inicial.png
     :align: center
 
     : Modelagem de Banco de Dados
