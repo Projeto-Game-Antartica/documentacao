@@ -2,7 +2,7 @@
 Modelagem inicial do banco de dados
 ===================================
 
-A figura abaixo mostra o diagrama entidade relacionamento contendo as relações iniciais de cadastro, glossário e configurações do jogo.
+A figura abaixo mostra a modelagem inicial de Banco de Dados contendo as relações iniciais de cadastro, glossário e configurações do jogo.
 
 .. _figDB:
 .. figure:: ./assets/diagramaJogo_Inicial.png
