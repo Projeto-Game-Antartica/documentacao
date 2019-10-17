@@ -37,16 +37,16 @@
    :numbered:
    :caption: Conteúdo Desenvolvimento: Missão 004 - Baleias:
 
-   pre-jogo/status
-   pre-jogo/missao
-   pre-jogo/desafio
-   pre-jogo/minijogos
+   m004/status
+   m004/missao
+   m004/desafio
+   m004/minijogos
 
 .. toctree::
    :maxdepth: 2
    :numbered:
    :caption: Conteúdo Desenvolvimento:  Missão 002 - Itens de Viagem:
 
-   pre-jogo/status
-   pre-jogo/missao
-   pre-jogo/minijogos
+   m002/status
+   m002/missao
+   m002/minijogos
