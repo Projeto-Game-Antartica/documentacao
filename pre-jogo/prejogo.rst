@@ -9,7 +9,7 @@ Antes da execução do jogo, a funcionalidade de localização (português e ing
 Cadastro
 ========
 
-A tela de cadastro pode ser visto na figura :numref:`figfacedev`. A implementação da interface ainda está em desenvolvimento, junto com o banco de dados e a parte de login.
+A tela de cadastro pode ser visto na figura :numref:`figcadastro`. A implementação da interface ainda está em desenvolvimento, junto com o banco de dados e a parte de login.
 
 .. _figcadastro:
 .. figure:: ./assets/cadastro.png
@@ -21,7 +21,7 @@ Login
 ========
 A tela de login pode ser encontrada na figura :numref:`figlogin`. A implementação ainda está em desenvolvimento. As funcionalidades previstas estão logins via e-mail institucional e também via facebook e email.
 
-.. _figcadastro:
+.. _figlogin:
 .. figure:: ./assets/login.png
    :align: center
    
@@ -51,8 +51,8 @@ O menu principal contém o menu de ajudas e de configurações. Temos as seguint
 
 (c) Essa classe controla a transição de cenas (funcionalidade dos botões) pelas opções de ajuda do jogo que, por enquanto, são: áudios e glossário em libras (vide figura :numref:`figmenuhelp`).
 
-.. _figmenuopcoes:
-.. figure:: ./assets/menuopcoes.png
+.. _figmenuhelp:
+.. figure:: ./assets/menuhelp.png
    :align: center
    
    : Interface do menu com o menu de ajuda habilitado.

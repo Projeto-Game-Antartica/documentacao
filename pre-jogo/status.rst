@@ -8,6 +8,4 @@ Para o pré-jogo, as seguintes classes .cs são utilizadas: MainMenu, OptionMenu
 
 Ainda há os glossários, tanto de libras quanto de sons que possuem as seguintes classes principais .cs: SoundGlossaryController e DicionaryController.
 
-`Itens Pré jogo e Glossários <m004/prejogo.rst>`_
-
 **status:** aguardando validação dos usuários
