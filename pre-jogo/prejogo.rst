@@ -42,7 +42,7 @@ O menu principal contém o menu de ajudas e de configurações. Temos as seguint
    : Interface do menu principal.
 
 .. _figmenuprincipal1:
-.. figure:: ./assets/menuprincipal.png
+.. figure:: ./assets/menuprincipal1.png
    :align: center
    
    : Interface do menu principal com barra de carregamento no canto inferior direito.
