@@ -33,13 +33,19 @@ Menu principal
 
 O menu principal contém o menu de ajudas e de configurações. Temos as seguintes classes .cs principais: (a) MainMenu, (b) OptionMenu, (c) HelpMenu
 
-(a) Responsável pelo controle dos botões da interface de menu principal (vide figura :numref:`figmenuprincipal`). É responsável também pelo controle da barra de carregamento para o jogo.
+(a) Responsável pelo controle dos botões da interface de menu principal (vide figura :numref:`figmenuprincipal`). É responsável também pelo controle da barra de carregamento para o jogo (figura :numref:`figmenuprincipal1`).
 
 .. _figmenuprincipal:
 .. figure:: ./assets/menuprincipal.png
    :align: center
    
    : Interface do menu principal.
+
+.. _figmenuprincipal1:
+.. figure:: ./assets/menuprincipal.png
+   :align: center
+   
+   : Interface do menu principal com barra de carregamento no canto inferior direito.
 
 (b) Responsável pelas opções do jogo. Que são: controle de volume, resolução, qualidade dos gráficos, leitura de tela e alto contraste. A interface pode ser vista na figura :numref:`figmenuopcoes`. Os parametos de acessibilidade são **estáticos** (classe Parameters.cs, será explorada mais pra frente), e então são controlados através de *Toggles*. O volume encontra-se alocado dentro de um *mixer* (ainda com apenas um canal master) e controlado através de um *Slider*. Para a qualidade de gráficos e resolução, temos uma classe auxiliar ResolutionQualityController.cs que cuida dessas alterações através de um *DropDown*.
 
