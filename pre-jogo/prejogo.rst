@@ -8,11 +8,11 @@ Para o pré-jogo, as seguintes classes .cs são utilizadas: MainMenu, OptionMenu
 
 Ainda há os glossários, tanto de libras quanto de sons que possuem as seguintes classes principais .cs: SoundGlossaryController e DicionaryController.
 
-**status:** aguardando validação dos usuários
-
 A seguir serão destacados os detalhes da implementação de cada item de pré-jogo além das suas respectivas interfaces.
 
 Antes da execução do jogo, a funcionalidade de localização (português e inglês) é executada através das classes LocalizationManager.cs e StartupManager.cs. É feito a leitura de um arquivo *json* contendo uma *chave* e *descrição* e adicionado na classe de mapeamento LocalizationData.cs. E para a localização dos textos é adicionado ao GameObject uma classe chamada LocalizedText.cs que mapeia o texto através de uma chave para seu correspondente texto no idioma escolhido. Porém, ainda não há previsão para a tradução do jogo.
+
+**status:** aguardando validação dos usuários
 
 Cadastro
 ========
