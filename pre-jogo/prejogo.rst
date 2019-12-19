@@ -1,10 +1,18 @@
 ======================================
-Itens
+Pré-Jogo
 ======================================
+
+Aqui pode ser encontrada a documentação referente aos aspectos pré-jogo do jogo Expedição Antártica. Esses itens são: Tela de cadastro, tela de login, tela de menu principal, tela de glossário em libras e de sons.
+
+Para o pré-jogo, as seguintes classes .cs são utilizadas: MainMenu, OptionMenu, HelpMenu. As telas de cadastro e login ainda não possuem funcionalidades.
+
+Ainda há os glossários, tanto de libras quanto de sons que possuem as seguintes classes principais .cs: SoundGlossaryController e DicionaryController.
+
+**status:** aguardando validação dos usuários
 
 A seguir serão destacados os detalhes da implementação de cada item de pré-jogo além das suas respectivas interfaces.
 
-Antes da execução do jogo, a funcionalidade de localização (português e inglês) é executada através das classes LocalizationManager.cs e StartupManager.cs. É feito a leitura de um arquivo *json* contendo uma *chave* e *descrição* e adicionado na classe de mapeamento LocalizationData.cs. E para a localização dos textos é adicionado ao GameObject uma classe chamada LocalizedText.cs que mapeia o texto através de uma chave para seu correspondente texto no idioma escolhido. Porém, ainda não se sabe, efetivamente, se haverá uma tradução do jogo.
+Antes da execução do jogo, a funcionalidade de localização (português e inglês) é executada através das classes LocalizationManager.cs e StartupManager.cs. É feito a leitura de um arquivo *json* contendo uma *chave* e *descrição* e adicionado na classe de mapeamento LocalizationData.cs. E para a localização dos textos é adicionado ao GameObject uma classe chamada LocalizedText.cs que mapeia o texto através de uma chave para seu correspondente texto no idioma escolhido. Porém, ainda não há previsão para a tradução do jogo.
 
 Cadastro
 ========

@@ -27,10 +27,11 @@
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: Conteúdo Desenvolvimento: Itens pré-jogo:
+   :caption: Conteúdo Desenvolvimento: Expedição Antártica e Pré-jogo:
 
    pre-jogo/status
    pre-jogo/prejogo
+   pre-jogo/acessibilidade
 
 .. toctree::
    :maxdepth: 2

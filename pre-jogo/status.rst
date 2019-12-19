@@ -1,11 +1,13 @@
 ======================================
-Pré-Jogo
+Expedição Antártica
 ======================================
 
-Aqui pode ser encontrada a documentação referente aos aspectos pré-jogo do jogo Expedição Antártica. Esses itens são: Tela de cadastro, tela de login, tela de menu principal, tela de glossário em libras e de sons.
+O jogo Expedição Antártica é um jogo educacional do tipo RPG com 5 missões em 3 diferentes cenários. Inicialmente, têm-se a seguinte estrutura do jogo: Pré-jogo, M002 Baleias, M002 - Itens de Viagem e demais missões.
 
-Para o pré-jogo, as seguintes classes .cs são utilizadas: MainMenu, OptionMenu, HelpMenu. As telas de cadastro e login ainda não possuem funcionalidades.
+.. _figestrutura:
+.. figure:: ./assets/arquitetura_jogo.png
+   :align: center
+   
+   : Arquitetura do jogo com as diferentes telas.
 
-Ainda há os glossários, tanto de libras quanto de sons que possuem as seguintes classes principais .cs: SoundGlossaryController e DicionaryController.
-
-**status:** aguardando validação dos usuários
+Na figura :numref:`figestrutura` é possível visualizar a arquitetura do jogo e suas transições. Até o presente momento tem-se desenvolvido as fases pré-jogo, M002 e M004. Os itens de acessibilidade se localizam na parte superior com setas pontilhadas representando que é herdado pelas demais cenas, isto é, está presente em todas as etapas do jogo. As "demais missões" estão em desenvolvimento e serão atualizadas neste documento quando estiverem finalizadas.
