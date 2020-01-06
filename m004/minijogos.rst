@@ -24,7 +24,7 @@ Fotoidentificação
 ==================
 
 .. _figteia:
-.. figure:: ./assets/fotoidentificação.png
+.. figure:: ./assets/fotoidentificacao.png
    :align: center
    
    : Classes que são utilizadas para desenvolvimento minijogo da fotoidentificação de caudas.
